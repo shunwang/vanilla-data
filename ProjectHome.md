@@ -1,0 +1,1 @@
+This project allows you to manage large collections of data structures which use memory outside the Java heap to minimise heap usage. Unlike other solution, this does not use data  serialization and can be used without creating objects as you use them.
